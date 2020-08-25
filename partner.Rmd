@@ -1,0 +1,17 @@
+---
+title: "partner"
+author: "Muhammad Idris"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*##DS 202 - Lab 1: working with git and github*  
+1. Patrick Origer. OJPatrick.  
+2. Owner created a commit that included hw_1.Rmd and hw1.html  
+   Commit id - 8b13ab7bdfb4454526660f8e1b8a2f96452aa22f.    
+3. No errors in knitting owners hw1.Rmd file.  
+4. A tip to make Github easier is to make sure a repo is up to date and current.  
